@@ -5776,6 +5776,330 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "XT30PW_2_2_-M.G.B:XT30PW_2_2_-M.G.B"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -8.89 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "XT30PW_2_2_-M.G.B"
+				(at -8.89 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "XT30PW_2_2_-M.G.B:AMASS_XT30PW_2_2_-M.G.B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "AMASS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "5.2mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "CREATOR" "ANA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "NA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "VERIFIER" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "XT30PW(2+2)-M.G.B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Industrial Control Plug"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "Not in stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "AMASS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "XT30PW_2_2_-M.G.B_0_0"
+				(rectangle
+					(start -8.89 -7.62)
+					(end 8.89 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -8.255 2.2225)
+					(end -6.6675 2.8575)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -8.255 -0.3175)
+					(end -6.6675 0.3175)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -8.255 -5.3975)
+					(end -6.6675 -4.7625)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 6.6675 -5.3975)
+					(end 8.255 -4.7625)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin power_in line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "P"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "P"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "N"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "N"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -5.08 0)
+					(length 5.08)
+					(name "S1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "S2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "S2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+24V"
 			(power)
 			(pin_numbers
@@ -6379,7 +6703,7 @@
 		)
 	)
 	(rectangle
-		(start 299.466 229.362)
+		(start 299.466 224.282)
 		(end 405.13 250.444)
 		(stroke
 			(width 0)
@@ -6392,7 +6716,7 @@
 	)
 	(rectangle
 		(start 299.466 167.386)
-		(end 405.13 227.076)
+		(end 405.13 222.25)
 		(stroke
 			(width 0)
 			(type dash)
@@ -6508,7 +6832,7 @@
 	)
 	(text "Connector"
 		(exclude_from_sim no)
-		(at 309.626 233.934 0)
+		(at 309.118 229.362 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7354,7 +7678,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 115.57) (xy 297.18 115.57)
+			(xy 283.21 114.3) (xy 284.48 114.3)
 		)
 		(stroke
 			(width 0)
@@ -7564,7 +7888,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 115.57) (xy 307.34 110.49)
+			(xy 294.64 114.3) (xy 294.64 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7671,16 +7995,6 @@
 			(type default)
 		)
 		(uuid "3e8ea16c-100e-43a8-9059-8ed9010ecb45")
-	)
-	(wire
-		(pts
-			(xy 341.63 241.3) (xy 332.74 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41898aa0-e920-4bdd-bfe1-560b74bb8610")
 	)
 	(wire
 		(pts
@@ -8304,6 +8618,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 238.76) (xy 318.77 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "826902f3-e577-4522-b42e-867df47edfdb")
+	)
+	(wire
+		(pts
 			(xy 36.83 207.01) (xy 36.83 209.55)
 		)
 		(stroke
@@ -8491,16 +8815,6 @@
 			(type default)
 		)
 		(uuid "8e5360b2-1d41-40e6-b168-6f5ab63376d9")
-	)
-	(wire
-		(pts
-			(xy 387.35 241.3) (xy 378.46 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ec757a9-61ab-40af-8110-824fd7fcf8b5")
 	)
 	(wire
 		(pts
@@ -8754,6 +9068,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 238.76) (xy 367.03 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5ee466f-8afb-4d08-98af-0d6b2c6be117")
+	)
+	(wire
+		(pts
 			(xy 41.91 120.65) (xy 41.91 121.92)
 		)
 		(stroke
@@ -8804,6 +9128,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 154.94) (xy 227.33 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad079932-fa6c-4fd0-8101-c6cba84afa92")
+	)
+	(wire
+		(pts
 			(xy 388.62 44.45) (xy 388.62 45.72)
 		)
 		(stroke
@@ -8834,7 +9168,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 110.49) (xy 309.88 110.49)
+			(xy 294.64 110.49) (xy 309.88 110.49)
 		)
 		(stroke
 			(width 0)
@@ -8864,7 +9198,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 115.57) (xy 307.34 115.57)
+			(xy 292.1 114.3) (xy 294.64 114.3)
 		)
 		(stroke
 			(width 0)
@@ -9054,7 +9388,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 137.16) (xy 243.84 137.16)
+			(xy 227.33 137.16) (xy 236.22 137.16)
 		)
 		(stroke
 			(width 0)
@@ -9474,7 +9808,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 139.7) (xy 243.84 139.7)
+			(xy 227.33 139.7) (xy 236.22 139.7)
 		)
 		(stroke
 			(width 0)
@@ -9882,9 +10216,31 @@
 			)
 		)
 	)
+	(global_label "LIMIT_SW"
+		(shape input)
+		(at 309.88 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2e29141c-6434-42f7-a6de-75bf444cf78b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 298.6096 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CANL"
 		(shape input)
-		(at 332.74 238.76 0)
+		(at 392.43 246.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9892,9 +10248,9 @@
 			)
 			(justify left)
 		)
-		(uuid "2ead3f4c-4128-4391-a99a-68927c47325c")
+		(uuid "31260298-a222-49d9-926a-9b0f4cda36d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 340.4424 238.76 0)
+			(at 400.1324 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10060,7 +10416,7 @@
 	)
 	(global_label "SWCLK"
 		(shape input)
-		(at 234.95 134.62 0)
+		(at 227.33 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10070,7 +10426,7 @@
 		)
 		(uuid "4de499f0-804f-44ff-8352-220bdb831390")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 244.1642 134.62 0)
+			(at 236.5442 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10124,6 +10480,28 @@
 			)
 		)
 	)
+	(global_label "CANL"
+		(shape input)
+		(at 344.17 246.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5aa8f758-983f-48d8-b5ff-cad5109eff58")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 351.8724 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MOSI"
 		(shape input)
 		(at 49.53 264.16 180)
@@ -10164,28 +10542,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CANL"
-		(shape input)
-		(at 378.46 238.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6ca10440-1b24-4c3d-a469-d675886f2675")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 386.1624 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -10280,7 +10636,7 @@
 	)
 	(global_label "SWDIO"
 		(shape input)
-		(at 234.95 132.08 0)
+		(at 227.33 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10290,7 +10646,7 @@
 		)
 		(uuid "89164a1c-dec4-4ff4-886e-71c526761215")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.8014 132.08 0)
+			(at 236.1814 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10388,6 +10744,28 @@
 			)
 		)
 	)
+	(global_label "LIMIT_SW"
+		(shape input)
+		(at 227.33 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f95df2d-47f8-46e9-90b8-a2064ff61735")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 238.6004 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CANH"
 		(shape input)
 		(at 115.57 189.23 180)
@@ -10445,28 +10823,6 @@
 		(uuid "a892cd40-ed04-4cc6-86b7-63cb07d1462e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 358.2828 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CANH"
-		(shape input)
-		(at 378.46 236.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "aa4da539-c75f-46c4-af44-a4225651fc0e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 386.4648 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10674,28 +11030,6 @@
 			)
 		)
 	)
-	(global_label "CANH"
-		(shape input)
-		(at 332.74 236.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be81974b-cdcc-4ff6-9ebf-39d447fc99a5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 340.7448 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "A1"
 		(shape input)
 		(at 280.67 262.89 0)
@@ -10784,6 +11118,28 @@
 			)
 		)
 	)
+	(global_label "CANH"
+		(shape input)
+		(at 318.77 246.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e10db2bf-36c2-4419-860a-c583b17393de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 310.7652 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI1_MOSI"
 		(shape input)
 		(at 345.44 80.01 0)
@@ -10846,6 +11202,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CANH"
+		(shape input)
+		(at 367.03 246.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9e93ff0-7594-4cbd-b66e-7c149fe6d2b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 359.0252 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11156,7 +11534,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kR"
+		(property "Value" "4.7KR"
 			(at 363.22 208.026 0)
 			(effects
 				(font
@@ -11164,7 +11542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 359.918 207.01 90)
 			(effects
 				(font
@@ -11298,7 +11676,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 274.0152 53.34 0)
 			(effects
 				(font
@@ -11697,7 +12075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 290.5252 53.34 0)
 			(effects
 				(font
@@ -11764,7 +12142,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 164.1348 43.18 0)
 			(effects
 				(font
@@ -11834,7 +12212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 233.3752 100.33 0)
 			(effects
 				(font
@@ -11901,7 +12279,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.56 120.9548 0)
 			(effects
 				(font
@@ -12012,7 +12390,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 137.16 90)
+		(at 236.22 137.16 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12021,7 +12399,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b703734-780b-4119-ba30-21ef558432e2")
 		(property "Reference" "#PWR025"
-			(at 250.19 137.16 0)
+			(at 242.57 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12030,7 +12408,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 247.65 137.1599 90)
+			(at 240.03 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12039,7 +12417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 137.16 0)
+			(at 236.22 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12048,7 +12426,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 137.16 0)
+			(at 236.22 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12057,7 +12435,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 137.16 0)
+			(at 236.22 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12293,7 +12671,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kR"
+		(property "Value" "4.7KR"
 			(at 375.92 208.026 0)
 			(effects
 				(font
@@ -12301,7 +12679,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 372.618 207.01 90)
 			(effects
 				(font
@@ -12502,7 +12880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 35.8648 199.39 0)
 			(effects
 				(font
@@ -12545,6 +12923,221 @@
 		)
 	)
 	(symbol
+		(lib_id "XT30PW_2_2_-M.G.B:XT30PW_2_2_-M.G.B")
+		(at 379.73 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "299277ff-78aa-4df5-a58c-5102b8f93fc1")
+		(property "Reference" "J3"
+			(at 379.73 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XT30PW_2_2_-M.G.B"
+			(at 379.73 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "XT30PW_2_2_-M.G.B:AMASS_XT30PW_2_2_-M.G.B"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "AMASS"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "5.2mm"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATOR" "ANA"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=eda"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "NA"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VERIFIER" ""
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=snap"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "XT30PW(2+2)-M.G.B"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Industrial Control Plug"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "AMASS"
+			(at 379.73 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "P"
+			(uuid "59edc5eb-7834-47b8-a259-00a0111de378")
+		)
+		(pin "N"
+			(uuid "4000227c-688d-47a0-ab70-dff6bc06119a")
+		)
+		(pin "S1"
+			(uuid "515f3c46-4267-47b2-a0d3-77ea5de112c6")
+		)
+		(pin "S2"
+			(uuid "f1ca99d3-f32b-4b7f-b36a-b7a1fd039fd8")
+		)
+		(instances
+			(project "alto_driver"
+				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 364.49 50.8 0)
 		(unit 1)
@@ -12569,7 +13162,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 365.4552 54.61 0)
 			(effects
 				(font
@@ -12636,7 +13229,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 307.0352 53.34 0)
 			(effects
 				(font
@@ -12680,7 +13273,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 300.99 115.57 90)
+		(at 288.29 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12688,23 +13281,23 @@
 		(dnp no)
 		(uuid "2be75116-777d-486f-9f17-9d2ca3a36892")
 		(property "Reference" "R5"
-			(at 300.99 113.03 90)
+			(at 288.29 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10kR"
-			(at 300.99 118.364 90)
+		(property "Value" "10KR"
+			(at 288.29 117.094 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 300.99 117.348 90)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 288.29 116.078 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12713,7 +13306,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 300.99 115.57 0)
+			(at 288.29 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12722,7 +13315,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 300.99 115.57 0)
+			(at 288.29 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12747,7 +13340,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 295.91 115.57 270)
+		(at 283.21 114.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12756,7 +13349,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d6e51fb-6a9c-4559-9e5f-861d3145c4ec")
 		(property "Reference" "#PWR023"
-			(at 289.56 115.57 0)
+			(at 276.86 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12765,7 +13358,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 292.1 115.5699 90)
+			(at 279.4 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12774,7 +13367,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 295.91 115.57 0)
+			(at 283.21 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12783,7 +13376,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.91 115.57 0)
+			(at 283.21 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12792,7 +13385,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 295.91 115.57 0)
+			(at 283.21 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12904,7 +13497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 54.61 0)
 			(effects
 				(font
@@ -12963,7 +13556,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "10KR"
 			(at 266.7 219.964 90)
 			(effects
 				(font
@@ -12971,7 +13564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 266.7 218.948 90)
 			(effects
 				(font
@@ -13281,16 +13874,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 341.63 241.3 90)
+		(at 313.69 238.76 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37e38b6a-8c26-4afd-9e93-632e5187f189")
 		(property "Reference" "#PWR044"
-			(at 347.98 241.3 0)
+			(at 307.34 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13299,16 +13891,15 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 345.44 241.2999 90)
+			(at 308.356 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 341.63 241.3 0)
+			(at 313.69 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13317,7 +13908,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 341.63 241.3 0)
+			(at 313.69 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13326,7 +13917,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 341.63 241.3 0)
+			(at 313.69 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13437,7 +14028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 46.99 33.3248 0)
 			(effects
 				(font
@@ -13636,7 +14227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 246.38 223.8248 0)
 			(effects
 				(font
@@ -13703,7 +14294,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.88 265.938 90)
 			(effects
 				(font
@@ -13746,17 +14337,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+24V")
-		(at 378.46 243.84 270)
+		(lib_id "power:GND")
+		(at 238.76 154.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "48730027-bb05-4768-94cb-d2596684e195")
-		(property "Reference" "#PWR065"
-			(at 374.65 243.84 0)
+		(uuid "491265cd-448a-47e9-8cfb-4e078aa7b51e")
+		(property "Reference" "#PWR067"
+			(at 245.11 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13764,17 +14355,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+24V"
-			(at 382.27 243.8399 90)
+		(property "Value" "GND"
+			(at 242.57 154.9399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 378.46 243.84 0)
+			(at 238.76 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13783,7 +14374,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 378.46 243.84 0)
+			(at 238.76 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13791,8 +14382,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 378.46 243.84 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 238.76 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13801,12 +14392,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9dfbf38-0089-4f8e-a3f5-2b4ce8667fc1")
+			(uuid "1d43fbad-4338-47f2-9585-ec568ead5dc0")
 		)
 		(instances
 			(project "alto_driver"
 				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
-					(reference "#PWR065")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -13837,7 +14428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 126.0348 124.46 0)
 			(effects
 				(font
@@ -13904,7 +14495,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.56 143.8148 0)
 			(effects
 				(font
@@ -14171,7 +14762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 239.7252 53.34 0)
 			(effects
 				(font
@@ -14239,7 +14830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "AT24C32D-SSHM-T:SOIC127P600X175-8N"
 			(at 351.79 287.96 0)
 			(effects
 				(font
@@ -14522,7 +15113,7 @@
 				)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "100KR"
 			(at 119.38 123.444 90)
 			(effects
 				(font
@@ -14530,7 +15121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 119.38 122.428 90)
 			(effects
 				(font
@@ -14806,7 +15397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 257.5052 53.34 0)
 			(effects
 				(font
@@ -14849,17 +15440,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 387.35 241.3 90)
+		(lib_id "power:+24V")
+		(at 367.03 241.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6313bc33-b0cc-4649-ba74-5cc598a0510f")
+		(uuid "61e2dd70-29bc-4416-ad1b-ca53165e5b8b")
 		(property "Reference" "#PWR066"
-			(at 393.7 241.3 0)
+			(at 370.84 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14867,17 +15457,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 391.16 241.2999 90)
+		(property "Value" "+24V"
+			(at 361.442 241.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 387.35 241.3 0)
+			(at 367.03 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14886,7 +15475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 387.35 241.3 0)
+			(at 367.03 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14894,8 +15483,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 387.35 241.3 0)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 367.03 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14904,7 +15493,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "08749182-36e0-40ec-9670-6a2535adbdde")
+			(uuid "7559c12e-22d3-4f81-a639-dc6a604432b2")
 		)
 		(instances
 			(project "alto_driver"
@@ -14940,7 +15529,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 46.99 63.8048 0)
 			(effects
 				(font
@@ -15007,7 +15596,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 46.99 53.6448 0)
 			(effects
 				(font
@@ -15075,7 +15664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 377.19 47.498 90)
 			(effects
 				(font
@@ -15252,7 +15841,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 229.87 134.62 0)
+		(at 222.25 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15260,7 +15849,7 @@
 		(dnp no)
 		(uuid "7005077b-1c20-4e88-a0b6-2c7769e9e696")
 		(property "Reference" "J1"
-			(at 228.092 134.366 0)
+			(at 220.472 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15269,7 +15858,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 227.838 137.414 0)
+			(at 220.218 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15277,8 +15866,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 229.87 134.62 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 222.25 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15287,7 +15876,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 229.87 134.62 0)
+			(at 222.25 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15296,7 +15885,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 229.87 134.62 0)
+			(at 222.25 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15320,6 +15909,73 @@
 			(project ""
 				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 222.25 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70ed1e8c-34b0-4479-bdf9-b59cbfda1254")
+		(property "Reference" "J6"
+			(at 212.598 151.892 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 212.598 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
+			(at 222.25 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 222.25 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 222.25 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94527516-d0cd-446c-af48-7bc5ef0e9fd6")
+		)
+		(pin "2"
+			(uuid "3bf1feac-84c8-4a76-a30e-4b7302611561")
+		)
+		(instances
+			(project "alto_driver"
+				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -15393,6 +16049,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 361.95 238.76 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "745bf3ab-4d56-4bb1-9aac-c72f83af1e83")
+		(property "Reference" "#PWR065"
+			(at 355.6 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 356.616 238.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 361.95 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 361.95 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 361.95 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f513fe3-5459-4b90-a204-4e50b61cc481")
+		)
+		(instances
+			(project "alto_driver"
+				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 55.88 238.76 90)
 		(unit 1)
@@ -15417,7 +16138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.88 240.538 90)
 			(effects
 				(font
@@ -15618,7 +16339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 257.5052 227.33 0)
 			(effects
 				(font
@@ -15817,7 +16538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 46.99 43.4848 0)
 			(effects
 				(font
@@ -15884,7 +16605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 242.57 251.968 90)
 			(effects
 				(font
@@ -15951,7 +16672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.88 258.318 90)
 			(effects
 				(font
@@ -16455,7 +17176,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 223.2152 207.01 0)
 			(effects
 				(font
@@ -16591,7 +17312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:VQFN-28-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias"
+		(property "Footprint" "TMC2209-LA:QFN50P500X500X90-29N"
 			(at 217.17 262.89 0)
 			(effects
 				(font
@@ -16715,81 +17436,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 373.38 238.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9433830a-3f65-4742-b859-57ac1043da07")
-		(property "Reference" "J4"
-			(at 371.602 238.506 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 371.348 241.554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 373.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 373.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 373.38 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83d782b6-8833-450c-a189-e857921afd7b")
-		)
-		(pin "2"
-			(uuid "6fd5cf39-d56e-40dd-884b-dead6e71a338")
-		)
-		(pin "4"
-			(uuid "c9a52142-c81a-4494-b09e-123e3f792233")
-		)
-		(pin "3"
-			(uuid "8313c853-1f2d-4fca-947a-aeb2490dc609")
-		)
-		(instances
-			(project "alto_driver"
-				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_TVS")
 		(at 57.15 34.29 90)
 		(unit 1)
@@ -16817,7 +17463,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 57.15 34.29 0)
 			(effects
 				(font
@@ -16885,7 +17531,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 110.49 210.82 0)
 			(effects
 				(font
@@ -16952,7 +17598,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.21 94.488 90)
 			(effects
 				(font
@@ -17019,7 +17665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Chilisin_BWVS00505030"
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -17086,7 +17732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.56 109.5248 0)
 			(effects
 				(font
@@ -17155,7 +17801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
 			(at 275.59 265.43 0)
 			(effects
 				(font
@@ -17231,7 +17877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 214.3252 100.33 0)
 			(effects
 				(font
@@ -17512,7 +18158,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "10KR"
 			(at 275.59 70.104 90)
 			(effects
 				(font
@@ -17520,7 +18166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 275.59 69.088 90)
 			(effects
 				(font
@@ -17563,83 +18209,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 327.66 238.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a68b8a80-4443-4635-b0c2-ab0fea725dd1")
-		(property "Reference" "J3"
-			(at 325.882 238.506 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 325.628 241.554 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 327.66 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 327.66 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 327.66 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9eec7742-f2bb-4019-8e14-2d3fba563d2a")
-		)
-		(pin "2"
-			(uuid "01138cf2-9e62-44df-b7d9-812333fb89ef")
-		)
-		(pin "4"
-			(uuid "dabcc529-b62c-4f9f-a8f5-1e716b8bdf19")
-		)
-		(pin "3"
-			(uuid "e4aa0d01-51e1-4ce4-a280-aab873ac3402")
-		)
-		(instances
-			(project "alto_driver"
-				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
-		(at 243.84 139.7 270)
+		(at 236.22 139.7 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17648,7 +18219,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8a353a3-3ee0-4bc6-bbdd-6ddf0ac75779")
 		(property "Reference" "#PWR024"
-			(at 240.03 139.7 0)
+			(at 232.41 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17657,7 +18228,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 247.65 139.6999 90)
+			(at 240.03 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17666,7 +18237,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 139.7 0)
+			(at 236.22 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17675,7 +18246,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 139.7 0)
+			(at 236.22 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17684,7 +18255,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 243.84 139.7 0)
+			(at 236.22 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17796,7 +18367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 246.38 208.5848 0)
 			(effects
 				(font
@@ -17833,6 +18404,221 @@
 			(project "alto_driver"
 				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "XT30PW_2_2_-M.G.B:XT30PW_2_2_-M.G.B")
+		(at 331.47 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2adc938-d399-4305-b0fb-1960bef241d1")
+		(property "Reference" "J4"
+			(at 331.47 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XT30PW_2_2_-M.G.B"
+			(at 331.47 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "XT30PW_2_2_-M.G.B:AMASS_XT30PW_2_2_-M.G.B"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "AMASS"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "5.2mm"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CREATOR" "ANA"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=eda"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "NA"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "VERIFIER" ""
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT30PW(2+2)-M.G.B/AMASS/view-part/?ref=snap"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "XT30PW(2+2)-M.G.B"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Industrial Control Plug"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "AMASS"
+			(at 331.47 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "P"
+			(uuid "53048c88-8e8b-40d0-9b52-0da78d51d4f3")
+		)
+		(pin "N"
+			(uuid "4215d7dd-8c73-4d43-bd05-f725f3c49e82")
+		)
+		(pin "S1"
+			(uuid "98bb47f8-4c06-49d0-ab28-43aca3500645")
+		)
+		(pin "S2"
+			(uuid "53cf55ac-493f-4878-82f4-3d89e16fb6ec")
+		)
+		(instances
+			(project ""
+				(path "/75f0c9e7-60d6-4c2d-a968-7fd480ece34e"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -17995,7 +18781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 360.3752 190.5 0)
 			(effects
 				(font
@@ -18062,7 +18848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 112.7252 252.73 0)
 			(effects
 				(font
@@ -18196,7 +18982,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 347.6752 54.61 0)
 			(effects
 				(font
@@ -18240,16 +19026,15 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 332.74 243.84 270)
+		(at 318.77 241.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "be2ec816-bcb7-4256-9d54-cfe182e717af")
 		(property "Reference" "#PWR043"
-			(at 328.93 243.84 0)
+			(at 322.58 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18258,16 +19043,15 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 336.55 243.8399 90)
+			(at 313.182 241.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 332.74 243.84 0)
+			(at 318.77 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18276,7 +19060,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 243.84 0)
+			(at 318.77 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18285,7 +19069,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 332.74 243.84 0)
+			(at 318.77 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18463,7 +19247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 104.4448 43.18 0)
 			(effects
 				(font
@@ -18597,7 +19381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.56 132.3848 0)
 			(effects
 				(font
@@ -18665,7 +19449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 223.52 81.28 0)
 			(effects
 				(font
@@ -18885,7 +19669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24.9kR"
+		(property "Value" "24.9KR"
 			(at 142.24 124.4599 0)
 			(effects
 				(font
@@ -18894,7 +19678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 137.922 123.19 90)
 			(effects
 				(font
@@ -18953,7 +19737,7 @@
 				)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "100KR"
 			(at 144.78 115.824 90)
 			(effects
 				(font
@@ -18961,7 +19745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 144.78 114.808 90)
 			(effects
 				(font
@@ -19028,7 +19812,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 128.27 212.598 90)
 			(effects
 				(font
@@ -19161,7 +19945,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 282.9052 77.47 0)
 			(effects
 				(font
@@ -19228,7 +20012,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 231.14 190.8048 0)
 			(effects
 				(font
@@ -19296,7 +20080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "TCAN3413DR:SOIC127P600X175-8N"
 			(at 83.82 284.15 0)
 			(effects
 				(font
@@ -19880,7 +20664,7 @@
 				)
 			)
 		)
-		(property "Value" "1kR"
+		(property "Value" "1KR"
 			(at 184.15 230.124 90)
 			(effects
 				(font
@@ -19888,7 +20672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 184.15 229.108 90)
 			(effects
 				(font
@@ -19955,7 +20739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 59.3852 118.11 0)
 			(effects
 				(font
@@ -20022,7 +20806,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 242.57 260.858 90)
 			(effects
 				(font
@@ -20089,7 +20873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.21 107.188 90)
 			(effects
 				(font
@@ -20156,7 +20940,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 39.878 90)
 			(effects
 				(font
@@ -20291,7 +21075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P640X120-14N"
+		(property "Footprint" "AS5047P-ATSM:SOP65P640X120-14N"
 			(at 93.98 342.57 0)
 			(effects
 				(font
@@ -20466,7 +21250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 116.84 101.9048 0)
 			(effects
 				(font
@@ -20601,7 +21385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 306.07 38.1 0)
 			(effects
 				(font
@@ -20677,7 +21461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 42.8752 118.11 0)
 			(effects
 				(font
@@ -20745,7 +21529,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 274.32 92.71 0)
 			(effects
 				(font
@@ -20889,7 +21673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 274.32 105.41 0)
 			(effects
 				(font
@@ -21031,7 +21815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.88 248.158 90)
 			(effects
 				(font
