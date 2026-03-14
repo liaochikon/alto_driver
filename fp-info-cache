@@ -1,4 +1,18 @@
-27219017742349286
+27234973986159339
+AS5047P-ATSM
+SOP65P640X120-14N
+TSSOP-14
+Integrated Circuit
+0
+14
+14
+AT24C32D-SSHM-T
+SOIC127P600X175-8N
+Narrow, 3.90 mm (.150 In.) Body [SOIC]
+Integrated Circuit
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71805,6 +71819,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LMR33620ADDA
+CONV_LMR33620ADDA
+
+
+0
+17
+17
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -75949,6 +75970,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PESD2CAN
+SOT95P230X110-3N
+
+
+0
+3
+3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -98657,6 +98685,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMBJ28A
+DIOM4336X265N
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -100764,6 +100799,27 @@ Logo WEEE
 0
 0
 0
+TCAN3413DR
+SOIC127P600X175-8N
+D0008A
+Integrated Circuit
+0
+8
+8
+TLV75533PDBVR
+SOT95P280X145-5N
+
+
+0
+5
+5
+TMC2209-LA
+QFN50P500X500X90-29N
+TMC2209-LA
+Integrated Circuit
+0
+29
+29
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
@@ -107904,3 +107960,10 @@ Varistor VF
 0
 2
 2
+XT30PW_2_2_-M.G.B
+AMASS_XT30PW_2_2_-M.G.B
+
+
+0
+4
+4
