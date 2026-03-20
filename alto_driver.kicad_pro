@@ -60,19 +60,11 @@
       ],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|170504000|94796000|c82152cc-1948-489e-842b-36367f864cae|7942e81c-18f8-4409-8ec0-f60a59e4636d",
-          ""
-        ],
-        [
           "courtyards_overlap|134464986|106025000|1c1a17e0-7891-4b17-9d77-17f6b1bc74dd|a2a3d839-0305-42f6-b084-98b833704b38",
           ""
         ],
         [
           "courtyards_overlap|166122500|94477996|7a12de30-6032-49d3-946f-c9cfbaba84fd|ef8a38c8-e447-4b4a-97bf-233a94759766",
-          ""
-        ],
-        [
-          "solder_mask_bridge|140100000|87950000|b17a6691-0fd8-4d2c-8e42-a137ec6b26fb|aa87545f-9360-4923-9fba-243b89732125",
           ""
         ]
       ],

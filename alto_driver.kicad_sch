@@ -16210,7 +16210,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "600R/25%"
 			(at 377.1392 40.64 90)
 			(effects
 				(font
